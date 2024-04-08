@@ -46,7 +46,8 @@ SleekCare is an iOS application designed to provide accurate transcription of do
 
 ## Video Demonstration
 
-For a detailed demonstration of how SleekCare works, ![Demonstration](/Working.gif).
+ ![Demonstration](/Working.gif).
+ For a detailed demonstration of how SleekCare works,
 
 ## Features
 
