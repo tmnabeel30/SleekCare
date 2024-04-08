@@ -50,7 +50,7 @@ For a detailed demonstration of how SleekCare works, [click here](YOUR_VIDEO_LIN
 
 ## Features
 
-- **Accurate Transcription:** Utilizes Google ML Kit for high precision.
+- **Accurate Transcription:** Utilizes Google ML Kit and our proprietary model through an API for high precision. .
 - **Efficiency:** Streamlines the transcription process for medical professionals.
 - **User-Friendly:** Easy editing and customization of transcribed text.
 
