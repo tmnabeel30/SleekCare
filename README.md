@@ -2,7 +2,7 @@
 
 ## Description
 
-SleekCare is an iOS application designed to provide accurate transcription of doctor's notes with great precision using Google ML Kit. The app aims to streamline the process of transcribing medical notes, ensuring efficiency and accuracy, making it easier for doctors to manage their notes.
+SleekCare is an iOS application designed to provide accurate transcription of doctor's notes with great precision using Google ML Kit and our model. The app aims to streamline the process of transcribing medical notes, ensuring efficiency and accuracy, making it easier for doctors to manage their notes.
 
 ## Table of Contents
 
