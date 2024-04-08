@@ -55,13 +55,6 @@ SleekCare is an iOS application designed to provide accurate transcription of do
 - **Efficiency:** Streamlines the transcription process for medical professionals.
 - **User-Friendly:** Easy editing and customization of transcribed text.
 
-## Feedback
-
-Your feedback is invaluable to us! If you have suggestions or comments, please reach out to us at `your@email.com`.
-
-## Contributing
-
-We welcome contributions from everyone. Please see our `CONTRIBUTING.md` file for more information on how to get started.
 
 ## Credits
 
