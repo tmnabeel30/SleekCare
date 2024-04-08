@@ -1,4 +1,4 @@
-# Project Name: SleekCare - Doctor's Transcription App
+# SleekCare - Doctor's Transcription App
 
 ## Description
 
