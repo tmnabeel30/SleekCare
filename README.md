@@ -60,6 +60,7 @@ SleekCare is an iOS application designed to provide accurate transcription of do
 
 - [@aarish21](https://github.com/aarish21)
 - [@tmnabeel30](https://github.com/tmnabeel30)
+- [@Zaidihusain](https://github.com/zaidihusain)
 
 ## License
 
