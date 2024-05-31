@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SleekCare
 //
-//  Created by Nabeel on 28/01/24.
+//  Created by Nabeel & Aarish on 28/01/24.
 //
 
 import UIKit
